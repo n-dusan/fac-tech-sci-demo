@@ -1,3 +1,7 @@
-open_access.is_oa,count_oa_vs_closed
-True,728
-False,417
+open_access.is_oa,publication_year,avg_citations_by_oa_and_year,count_top10_percent_by_oa_and_year,count_oa_vs_closed
+True,2023,2.8052256532066506,42,421
+False,2023,2.611940298507463,16,201
+True,2024,1.2753623188405796,33,276
+False,2024,0.625615763546798,15,203
+True,2025,0.0967741935483871,3,31
+False,2025,0.07692307692307693,1,13
